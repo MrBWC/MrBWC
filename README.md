@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, C#, Python.**
 
-- 👨‍💻 All of my projects are available at [GitHub]([GitHub](https://github.com/MrBWC/))
+- 👨‍💻 All of my projects are available at [GitHub]([https://github.com/MrBWC/])
 
 - 📫 How to reach me **elias.wiesinger@proton.me**
 
