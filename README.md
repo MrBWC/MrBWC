@@ -4,10 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbwc&label=Profile%20views&color=0e75b6&style=flat" alt="mrbwc" /> </p>
 
 - 🔭 I’m currently working on **Open-LLM-VTUBER Addons**
-
 - 🌱 I’m currently learning **C++, C#, Python.**
 
-- 👨‍💻 All of my projects are available at [GitHub]([MrBWC])
+- 👨‍💻 All of my projects are available at https://github.com/MrBWC/
 
 - 📫 How to reach me **elias.wiesinger@proton.me**
 
