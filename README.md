@@ -2,7 +2,7 @@
 <h3 align="center">A Hobby developer from Germany</h3>
 
 <p align="center">
-  🔗 Check out my portfolio: [syntaxxxx.vercel.app](https://syntaxxxx.vercel.app)
+  🔗 Check out my portfolio: https://syntaxxxx.vercel.app
 </p>
 
 <p align="left">
