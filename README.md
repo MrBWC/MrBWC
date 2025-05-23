@@ -1,13 +1,23 @@
 <h1 align="center">Hi 👋, I'm SyntaxXXX</h1>
-<h3 align="center">A Hobby developer from Germany</h3>
+<h3 align="center">A Hobby Developer from Germany</h3>
 
 <p align="center">
-  🔗 Check out my portfolio: <a href="https://syntaxxxx.vercel.app">syntaxxxx.vercel.app</a>
+  🔗 <a href="https://syntaxxxx.vercel.app">Check out my portfolio</a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mrbwc&label=Profile%20views&color=0e75b6&style=flat" alt="syntaxxxx" />
+<p align="center">
+  <a href="https://syntaxxxx.vercel.app">
+    <img align="center" src="https://komarev.com/ghpvc/?username=SyntaxXXX&style=flat&color=6E3BF3" alt="profile views count" />
+  </a>
+  <a href="https://syntaxxxx.vercel.app">
+    <img align="center" src="https://api.statusbadges.me/badge/status/1117482901353812088?color=6e3bf3" alt="status" />
+  </a>
+  <a href="https://discord.gg/your-server-invite">
+    <img align="center" src="https://img.shields.io/discord/1117516271437758564?label=Discord&logo=discord&logoColor=fafafa&style=flat&color=6e3bf3" alt="discord" />
+  </a>
 </p>
+
+---
 
 ### 🚀 Current Projects
 
@@ -16,15 +26,15 @@
 
 ### 📫 Contact
 
-- Projects: [github.com/MrBWC](https://github.com/MrBWC)
-- Email: elias.wiesinger@proton.me
-- Discord: `.Moinse908`
+- 📂 Projects: [github.com/SyntaxXXX](https://github.com/syntaxxxx)
+- 📧 Email: elias.wiesinger@proton.me
+- 💬 Discord: `.Moinse908`
+
+---
 
 ### 🛠️ Languages & Tools
 
-**Bash, CSS3, Docker, Flask, HTML5, Kubernetes, Linux, MongoDB, MySQL, Node.js, Python, PyTorch**
-
-<p>
+<p align="center">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -37,4 +47,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://syntaxxxx.vercel.app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SyntaxXXX&show_icons=true&theme=transparent&include_all_commits=true&ring_color=6e3bf3&title_color=6e3bf3&text_color=ffffff&icon_color=6e3bf3&hide_border=true" alt="github stats" />
+  </a>
+  <a href="https://syntaxxxx.vercel.app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxXXX&layout=compact&show_icons=true&theme=transparent&include_all_commits=true&ring_color=6e3bf3&title_color=6e3bf3&text_color=ffffff&icon_color=6e3bf3&hide_border=true&langs_count=10" alt="top languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://syntaxxxx.vercel.app">
+    <img align="center" src="https://lanyard.cnrad.dev/api/1117482901353812088?theme=dark&bg=201a43&hideDiscrim=true&borderRadius=15px&idleMessage=console.log('Hello%2C%20World!')&hideTimestamp=true&hideSpotify=true&animatedDecoration=true&animated=true&hideActivity=whenNotUsed" alt="discord presence" />
+  </a>
 </p>
