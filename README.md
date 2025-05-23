@@ -12,8 +12,8 @@
   <a href="https://syntaxxxx.vercel.app">
     <img align="center" src="https://api.statusbadges.me/badge/status/1117482901353812088?color=6e3bf3" alt="status" />
   </a>
-  <a href="https://discord.gg/your-server-invite">
-    <img align="center" src="https://img.shields.io/discord/1117516271437758564?label=Discord&logo=discord&logoColor=fafafa&style=flat&color=6e3bf3" alt="discord" />
+  <a href="[https://discord.gg/your-server-invite](https://discord.gg/wEnW2kPwce)">
+    <img align="center" src="https://img.shields.io/discord/1375141754885640222?label=Discord&logo=discord&logoColor=fafafa&style=flat&color=6e3bf3" alt="discord" />
   </a>
 </p>
 
