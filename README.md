@@ -7,12 +7,15 @@
 
 <p align="center">
   <a href="https://syntaxxxx.vercel.app">
-    <img align="center" src="https://komarev.com/ghpvc/?username=SyntaxXXX&style=flat&color=6E3BF3" alt="profile views count" />
+    <img align="center" src="https://komarev.com/ghpvc/?username=Syntax-XXX&style=flat&color=6E3BF3" alt="profile views count" />
   </a>
   <a href="https://syntaxxxx.vercel.app">
-    <img align="center" src="https://api.statusbadges.me/badge/status/1117482901353812088?color=6e3bf3" alt="status" />
+    <img align="center" src="https://api.statusbadges.me/badge/status/970379709596729446?simple=true" alt="status" />
   </a>
-  <a href="[https://discord.gg/your-server-invite](https://discord.gg/wEnW2kPwce)">
+  <a href="https://syntaxxxx.vercel.app">
+    <img align="center" src="https://api.statusbadges.me/badge/vscode/970379709596729446" alt="vscode" />
+  </a>
+  <a href="https://discord.gg/wEnW2kPwce">
     <img align="center" src="https://img.shields.io/discord/1375141754885640222?label=Discord&logo=discord&logoColor=fafafa&style=flat&color=6e3bf3" alt="discord" />
   </a>
 </p>
@@ -52,16 +55,16 @@
 ---
 
 <p align="center">
-  <a href="https://syntaxxxx.vercel.app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SyntaxXXX&show_icons=true&theme=transparent&include_all_commits=true&ring_color=6e3bf3&title_color=6e3bf3&text_color=ffffff&icon_color=6e3bf3&hide_border=true" alt="github stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Syntax-XXX&show_icons=true&theme=transparent&include_all_commits=true&ring_color=6e3bf3&title_color=6e3bf3&text_color=ffffff&icon_color=6e3bf3&hide_border=true" alt="github stats" />
   </a>
-  <a href="https://syntaxxxx.vercel.app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxXXX&layout=compact&show_icons=true&theme=transparent&include_all_commits=true&ring_color=6e3bf3&title_color=6e3bf3&text_color=ffffff&icon_color=6e3bf3&hide_border=true&langs_count=10" alt="top languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax-XXX&layout=compact&show_icons=true&theme=transparent&include_all_commits=true&ring_color=6e3bf3&title_color=6e3bf3&text_color=ffffff&icon_color=6e3bf3&hide_border=true&langs_count=10" alt="top languages" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://syntaxxxx.vercel.app">
+  <a href="https://lanyard.cnrad.dev">
     <img align="center" src="https://lanyard.cnrad.dev/api/970379709596729446?bg=363636&theme=dark&idleMessage=Just%20Chilling%20rn&showDisplayName=true&borderRadius=20px" />
   </a>
 </p>
