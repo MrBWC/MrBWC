@@ -62,6 +62,6 @@
 
 <p align="center">
   <a href="https://syntaxxxx.vercel.app">
-    <img align="center" src="https://lanyard.cnrad.dev/api/970379709596729446?theme=dark&bg=201a43&hideDiscrim=true&borderRadius=15px&idleMessage=console.log('Hello%2C%20World!')&hideTimestamp=true&hideSpotify=true&animatedDecoration=true&animated=true&hideActivity=whenNotUsed" alt="discord presence" />
+    <img align="center" src="https://lanyard.cnrad.dev/api/970379709596729446?bg=363636&theme=dark&idleMessage=Just%20Chilling%20rn&showDisplayName=true&borderRadius=20px" />
   </a>
 </p>
