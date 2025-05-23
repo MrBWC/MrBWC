@@ -29,7 +29,7 @@
 
 ### 📫 Contact
 
-- 📂 Projects: [github.com/SyntaxXXX](https://github.com/syntaxxxx)
+- 📂 Projects: [github.com/Syntax-XXX](https://github.com/Syntax-XXX)
 - 📧 Email: elias.wiesinger@proton.me
 - 💬 Discord: `.Moinse908`
 
