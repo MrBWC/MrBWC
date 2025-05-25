@@ -2,17 +2,17 @@
 <h3 align="center">A Hobby Developer from Germany</h3>
 
 <p align="center">
-  🔗 <a href="https://syntaxxxx.vercel.app">Check out my portfolio</a>
+  🔗 <a href="https://syntax-xxx.is-a.dev">Check out my portfolio</a>
 </p>
 
 <p align="center">
-  <a href="https://syntaxxxx.vercel.app">
+  <a href="https://syntax-xxx.is-a.dev">
     <img align="center" src="https://komarev.com/ghpvc/?username=Syntax-XXX&style=flat&color=6E3BF3" alt="profile views count" />
   </a>
-  <a href="https://syntaxxxx.vercel.app">
+  <a href="https://syntax-xxx.is-a.dev">
     <img align="center" src="https://api.statusbadges.me/badge/status/970379709596729446?simple=true" alt="status" />
   </a>
-  <a href="https://syntaxxxx.vercel.app">
+  <a href="https://syntax-xxx.is-a.dev">
     <img align="center" src="https://api.statusbadges.me/badge/vscode/970379709596729446" alt="vscode" />
   </a>
   <a href="https://discord.gg/wEnW2kPwce">
