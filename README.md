@@ -24,7 +24,7 @@
 
 ### 🚀 Current Projects
 
-- 🔭 I’m currently working on **Open-LLM-VTUBER Addons**
+- 🔭 I’m currently working on **ParasiteBot**
 - 🌱 I’m learning **C++, C#, Python**
 
 ### 📫 Contact
